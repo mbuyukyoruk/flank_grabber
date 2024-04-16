@@ -1,0 +1,3 @@
+Accession	Protein_accession/array_no	Start	Stop	Strand
+CP001291.1	CP001291.1_1756	1875203	1877050	-1
+CP000472.1	CP000472.1_235	123	975	1
